@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "lets build this",
+      "body": "this is is about build react app with net ninja and I loved it thanks",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "testing loading",
+      "body": "loading......",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "now adding with timeout",
+      "body": "yeh timeout is cool",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "testing history",
+      "body": "history hook is coming from react-router",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "how I learn React",
+      "body": "in this series I used to learn how to make network calls using custom hooks in react\n\nhow to do CRUD operation in react First I read JSON data in react then I created form to create new one and then delete,\nso Update part is left\n\nhow to tie forms input with value \"via state\" in react\n\nlearn about routing in React which is basically how to fetch new page or I should say \"new component\" with Router ,Route, Switch and Link In React, Awesome stuff.\n\nIn NuttShell \n\nReact is component based in which any thing which has some sort of groups is called component like header navigation , forms , footer , side navigation , cards anything .\nand we use State inside the component to listen to change within the component and react Re-Render that specific part hence everything remain unchanged pretty dope ha.\n\nthen we have this props thing which is \"Like parameters for component\" we send it from where we want that component\n\nAnd yes component always return JSX \"looks like HTMl and JS baby\"  which is  also called template and this TEMPLATE is anything from normal HTML tags to arrays , Number EXCEPT \"Object and Boolean\"\n\nand as I said I used custom Hooks  - In react Hooks are basically pre-define function that helps in state changes \"useState\" and it helps when to render to specific part \"useEeffect\"  it hooks with component and other things in react.\nAlways starts with \"use\"\n\nwe can also create our own custom hooks like one we used to fetch data.\n\nThanks",
+      "author": "anish",
+      "id": 7
+    },
+    {
+      "title": "what ",
+      "body": "what is life",
+      "author": "yoshi",
+      "id": 8
+    },
+    {
+      "title": "moviese",
+      "body": "endgame,coco",
+      "author": "yoshi",
+      "id": 9
+    }
+  ]
+}
